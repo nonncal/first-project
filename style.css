@@ -1,0 +1,10 @@
+body {
+  width: 100vh;
+  height: 100vh;
+  padding: 50vh;
+  color: blueviolet;
+  font-family: Inter, Arial, sans-serif;
+  font-size: 100px;
+  text-align: center;
+  background-color: gray;
+}
